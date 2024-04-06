@@ -1,3 +1,8 @@
+>> HOW TO RUN 
+```
+./project-hope-test.sh 2> ./logs/error-$(date +"%Y-%m-%d")_$(date +"%H:%M:%S")
+```
+
 Here is the Deployment setup instructions:
 
 ---
